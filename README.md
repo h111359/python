@@ -20,3 +20,10 @@ https://github.com/cli/cli#installation
 
 https://github.com/cli/cli/blob/trunk/docs/install_linux.md
 
+Working with GitHub CLI
+
+gh auth login
+
+gh repo clone h111359/python
+
+
