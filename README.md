@@ -20,10 +20,15 @@ https://github.com/cli/cli#installation
 
 https://github.com/cli/cli/blob/trunk/docs/install_linux.md
 
+
 ## Working with GitHub CLI
+First ensure that you are logged to GitHub:
 
-gh auth login
+    gh auth login
 
-gh repo clone h111359/python
+
+To clone a repo:
+
+    gh repo clone h111359/python
 
 
