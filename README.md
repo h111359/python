@@ -34,7 +34,13 @@ To clone a repo:
 
 ## Virtual Environment
 
-Activation of Virtual environment:
+### Creation of virtual environment
+
+Linux:
+
+    python3 -m venv ve_01
+
+### Activation of Virtual environment
 
 Linux:
 
