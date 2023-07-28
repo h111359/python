@@ -39,3 +39,12 @@ Activation of Virtual environment:
 Linux:
 
     source <path to the environment>/bin/activate
+
+Windows:
+
+    <path to the environment>\Scripts\activate.bat
+
+
+Deactivation:
+
+    deactivate
