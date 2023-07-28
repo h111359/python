@@ -32,3 +32,10 @@ To clone a repo:
     gh repo clone h111359/python
 
 
+## Virtual Environment
+
+Activation of Virtual environment:
+
+Linux:
+
+    source <path to the environment>/bin/activate
