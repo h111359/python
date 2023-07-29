@@ -12,13 +12,36 @@
 1. Run jupyter notebook
 
 
+## Git setup
 
-## Install Python
+First setup git. Read here https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 
-Official Python site:
+At least execute the following:  
 
-[https://www.python.org/](https://www.python.org/)
+    git config --global user.name "Hristo Hristov"
+    git config --global user.email hhristov@coca-cola.com
 
+Check the setup here:  
+
+    git config --list --show-origin
+
+The cloning in corporate environment should be with disabled SSL, so use the following
+git clone -c http.sslVerify=false https://github.com/hmhristov/Python.git
+
+# Python installation
+
+Official Python site: [https://www.python.org/](https://www.python.org/)
+
+    python --version
+
+## Python louncher 
+
+    py --version
+    py -3.10
+    py -3.10 --version
+    py --list
+    py --list-paths
+    
 ## For installing GitHub CLI on Linux:
 
 https://docs.github.com/en/get-started/using-github/github-cli
@@ -56,6 +79,11 @@ Linux:
     python3 -m venv <virtual environment name>
 
     cd ./venv && python3 -m venv fdmt
+
+Windows:
+
+    python -m venv env
+
 
 ### Activation of Virtual environment
 
