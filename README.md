@@ -9,6 +9,7 @@
 1. Create virtual environment
 1. Activate virtual environment
 1. Install requirements file
+1. Run jupyter notebook
 
 
 
