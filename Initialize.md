@@ -8,3 +8,6 @@
 6. Start jupyter notebook executing in the terminal the command:
 
    jupyter notebook
+
+7. A browser opens and it should list the content of the folder Home/GitHub/python. Navigate to subfolder jupyter_notebooks
+8. Either use already created notebook or create a new one
