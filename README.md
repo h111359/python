@@ -9,6 +9,7 @@
 1. Create virtual environment
 1. Activate virtual environment
 1. Install requirements file
+1. Run jupyter notebook
 
 
 
@@ -78,6 +79,11 @@ Deactivation:
     pip install -r requirements.txt
 
     pip install -r "./fundamentals/course_materials/python-fundamentals-main/02 - Installing and Running Python/requirements.txt"
+
+
+### Run jupyter notebook
+
+    jupyter notebook
 
 ## Additional links to documentation
 
