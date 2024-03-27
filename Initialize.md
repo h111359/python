@@ -1,6 +1,11 @@
 1. Open Visual Studio Code
 3. Open new terminal with Ctrl+Shift+`
-4. Navigate to folder Home/GitHub/python
+4. Navigate to folder /home/hromar/GitHub/python
+
+
+Alternatively open terminal and navigate to /home/hromar/GitHub/python
+
+
 5. Start virtual machine with command:
  
    source ./venv/fdmt/bin/activate

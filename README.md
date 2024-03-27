@@ -108,6 +108,12 @@ Deactivation:
 
     pip install -r "./fundamentals/course_materials/python-fundamentals-main/02 - Installing and Running Python/requirements.txt"
 
+If you wish jupyther themes can be installed
+
+    pip install jupyterthemes
+
+Then activate one of the dark themes:
+    jt -t oceans16    
 
 ### Run jupyter notebook
 
